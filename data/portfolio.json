@@ -1,20 +1,20 @@
 [
     {
-        "image": "image1.png",
-        "title": "Booki",
-        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-        "link": "#"
+        "image": "image3.png",
+        "title": "Kasa",
+        "text": "Application web de location immobilière développée avec React : affichage dynamique des logements, galerie photo, système d'accordéon pour les informations, gestion des routes.",
+        "link": "https://github.com/SIZUUKA/kasa"
     },
     {
         "image": "image2.png",
-        "title": "Mon Vieux grimoire",
-        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-        "link": "#"
+        "title": "Eco Bliss Bath - Tests automatisés",
+        "text": "Mise en place de tests end-to-end et d'API pour une boutique en ligne, afin de sécuriser les fonctionnalités critiques (panier, commande, formulaire) et prévenir les régressions.",
+        "link": "https://github.com/SIZUUKA/Eco-Bliss-Bath-Tests"
     },
     {
-        "image": "image3.png",
-        "title": "Kasa",
-        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-        "link": "#"
+        "image": "js.jpg",
+        "title": "Sophie Bluel - Portfolio Architecte",
+        "text": "Site portfolio dynamique pour une architecte d'intérieur, développé en JavaScript natif : galerie de projets filtrable par catégorie, système d'authentification, ajout/suppression d'œuvres via une API.",
+        "link": "https://github.com/SIZUUKA/portfolio-architecte-sophie-bluel"
     }
 ]
